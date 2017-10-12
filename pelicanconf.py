@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'songxinlei'
-SITENAME = 'songxinlei.com'
+AUTHOR = 'zhuyangyi'
+SITENAME = 'zhuyangyi.com'
 SITEURL = ''
 STATIC_PATHS = ['CNAME']
 
